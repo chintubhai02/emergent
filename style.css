@@ -1,3 +1,7 @@
+"tailwind base;
+@tailwind component;
+@tailwind utilities;
+
 :root {
     --bg-base: #05050a;
     --bg-navy: #0b0c1a;
